@@ -1,0 +1,14 @@
+1. Write a Python program to find the sum and product of given two numbers.
+2. Write a Python program to convert temperature in F to C.
+C = 5/9(F - 32)
+3. Write a Python program to find area of trianlge
+area = sqrt(s *(s-a)*(s-b)*(s-c))
+where s = a+b+c /2
+4. Write a python program to display the ASCII value of a given character.
+5. Write a python program to prepare the electricity bill for consumers.
+previous , current month reading. service number, units consumed & electricity charges.
+Take charges 1.50 per unit
+6. Write a Python program to swap (exchange) values of two variables. A and B.
+7. Write a python program to find the sum and average of given three numbers.
+8. Write a python program to find the area & circumference of circle of radius r.
+area = pie * r * r circumference = 2*pie*r;
