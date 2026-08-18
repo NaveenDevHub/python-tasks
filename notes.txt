@@ -12,3 +12,14 @@ Take charges 1.50 per unit
 7. Write a python program to find the sum and average of given three numbers.
 8. Write a python program to find the area & circumference of circle of radius r.
 area = pie * r * r circumference = 2*pie*r;
+
+
+
+Write a Python program to check whether a number is positive, negative, or zero.
+Write a Python program to check whether a given number is even or odd.
+Write a Python program to find the largest of two numbers.
+Write a Python program to find the largest of three numbers.
+Write a Python program to check whether a person is eligible to vote based on age.
+Write a Python program to check whether a given year is a leap year or not.
+
+
