@@ -11,3 +11,4 @@ elif a>2000 and a <= 5000:
 
 else:
     print("Your Commission is", 545 + (a - 5000) * 12.5 / 100)
+
